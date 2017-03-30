@@ -1,11 +1,11 @@
 {
-	"steps": [{
+	"kits": [{
 		"id": "87a05812e341775c",
 		"attachments": [{
 			"type": "Attachments::Fake",
 			"url": "https://s3-ap-southeast-1.amazonaws.com/get-hacking-app-staging/comlock1.jpg"
 		}],
-		"title": "The micro:bit can test if a circuit is complete. We can use this to activate different bits if code.  We are going to separate the circuit into two pieces, two strips that connect to the micro:bit and one strip which connects them together when it touches.",
-		"description": ""
+		"title": "BBC Micro:Bit",
+		"description": "1x Bit"
 	}]
 }
